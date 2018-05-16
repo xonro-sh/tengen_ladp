@@ -1,0 +1,68 @@
+Manifest-Version: 1.0
+Class-Path: commons-logging-1.1.1.jar 6.jar aws.application.patch(2013
+ 09131119).jar aws.document.jar aws.portal.jar com.tengen.jar document
+ .persion.patch.jar formEvtNolock.jar PersonDomainImpl.patch.jar Runti
+ meFormManager.jar TG_ZONG.jar wfcost.jar com.tianzheng.ding.bpm-1.0.0
+ .jar com.actionsoft.suite.eam2.jar TG_PortalMenu.jar commons-codec-1.
+ 9.jar fastjson-1.2.12.jar TG_Command.jar commons-collections-2.1.jar 
+ com.actionsoft.suite.meetingmanager.jar org.apache.commons.logging_1.
+ 0.4.v201101211617.jar Adapter.jar ptcommision.jar com.actionsoft.suit
+ e.hrm2.jar ImApi-2.1.jar com.actionsoft.apps.portal.mobile.jar TG_CMS
+ .jar xml-apis-1.0.b2.jar role_securitygroup_order.jar commons-io-2.5.
+ jar commons-validator-1.3.1.jar aws_plugs_OSEnv.jar ldap.jar validati
+ on-api-1.0.0.GA.jar javax.wsdl_1.6.2.v201012040545.jar axis.jar saaj.
+ jar httpclient-4.5.2.jar commons-digester-1.6.jar commons-lang3-3.4.j
+ ar commons-beanutils-1.7.0.jar jaxrpc.jar httpcore-4.4.4.jar commons-
+ logging-1.2.jar DiggerReport.jar aws.portal.mobile.jar com.actionsoft
+ .suite.hotspot.jar com.actionsoft.suite.pm1.jar activation.jar com.ac
+ tionsoft.suite.sfa2.jar commons-discovery-0.2.jar noreg.jar TG_HRAPI.
+ jar com.actionsoft.suite.gov.jar com.actionsoft.apps.portal.tablet.ja
+ r httpmime-4.5.2.jar com.actionsoft.suite.expense.jar jconn3.jar jtds
+ -1.2.5.jar mysql-connector-java-3.1.11-bin.jar ojdbc14.jar ojdbc6.jar
+  activation.jar ant.jar appframework-1.0.3.jar aws.406sdk.jar aws.app
+ lication.db.util.page.jar aws.application.jar aws.bam.jar aws.basenot
+ es.jar aws.cluster.client.jar aws.cluster.server.jar aws.cms.jar aws.
+ coe.jar aws.coe.worksapce.schema.jar aws.core.jar aws.document.jar aw
+ s.domain.jar aws.eai.event.jar aws.eai.session.jar aws.eai.sms.jar aw
+ s.eai.smvendor.jar aws.es.jar aws.example.jar aws.fullsearch.jar aws.
+ i18n.jar aws.login.ldap.jar aws.maintain.jar aws.platform.jar aws.plu
+ g-in.jar aws.portal.jar aws.posreader.jar aws.schema.jar aws.sdk.jar 
+ aws.sdk.mobile.jar aws.sec3p.jar aws.skins.jar aws.studio.server.jar 
+ aws.thirdparty.jar aws.tools.awsdbInstall.jar aws.tools.config.instal
+ ler.jar aws.tools.configuration.jar aws.tools.db.install.jar aws.tool
+ s.license.jar aws.tools.licnese.jar aws.tools.skins.jar aws.tools.sui
+ te.installer.jar aws.transfer.jar aws.uicomponent.jar aws.userworkvie
+ w.jar aws.util.dbormapping.jar bam-install.jar barcode4j.jar bcmail-j
+ dk16-1.40.jar BerkeleyDB-je-5.0.34.jar bsh-2.0b4.jar cajo.jar cglib-n
+ odep-2.2.2.jar com.actionsoft.apps.kms.jar commons-beanutils.jar comm
+ ons-betwixt-0.7.jar commons-collections.jar commons-digester.jar comm
+ ons-lang.jar commons-logging-1.1.3.jar commons-validator.jar csv.jar 
+ dom4j-full.jar ezmorph-1.0.6.jar fontbox-0.8.0-incubating.jar fontbox
+ -1.7.1.jar FusionChartsAPI.jar hazelcast-all-2.X.jar itext-1.3.2.jar 
+ jaxen-1.1.jar jboss-marshalling.jar jboss-serialization.jar jce-jdk13
+ -118.jar jcommon-0.9.4.jar jdom.jar jfreechart-0.9.19.jar jmx-annotat
+ ions.jar jodd-3.4.5.jar json-lib-2.0-jdk15.jar jxl.jar log4j-1.2.15.j
+ ar log4j-1.2.17.jar log4j.plugin.solr.jar mail.jar msnm.jar n3xml.jar
+  OfficeLnFs_2.0.jar opencsv-1.8.jar pdfbox-0.8.0-incubating.jar pdfbo
+ x-1.7.1.jar PersonDomainImpl.patch.jar picocontainer-1.2-RC-1.jar pin
+ yin4j-2.5.0.jar poi-3.5.jar poi-ooxml-3.5.jar poi-scratchpad-3.5.jar 
+ quartz-1.6.5.jar rome-0.9.jar searchbox.jar servlet-api.jar swing-lay
+ out-1.0.3.jar swing-worker-1.1.jar xalan-2.7.1.jar xdesign.jar xerces
+ Impl-2.9.1.jar kxml2.jar json.jar aws.xbus.engine_2.jar neethi-2.0.4.
+ jar commons-pool-1.5.2.jar activemq-all-5.2.0.jar jetty-6.1.21.jar aw
+ s.ws.client.jar tomcat-jdbc.jar commons-vfs-1.0.jar slf4j-api-1.5.6.j
+ ar commons-codec-1.3.jar rmi.server.jar apache-mime4j-0.6.jar slf4j-l
+ og4j12-1.5.6.jar commons-discovery-0.2.jar trang.jar soap-xmlbeans-1.
+ 2.jar wsdl4j-1.6.2.jar xml-resolver-1.2.jar xmlbeans-2.3.0.jar textDr
+ iver.jar commons-exec-1.0.jar jxl_2.6.9.jar aws-cc.jar xqjapi.jar com
+ mons-net-ftp-2.0.jar jettison-1.1.jar tomcat-util.jar j-interop.jar c
+ ommons-dbcp-1.2.2.jar xmlsec-1.4.3.jar j-interopdeps.jar ooxml-schema
+ s-1.0.jar geronimo-jms_1.1_spec-1.1.1.jar commons-httpclient-3.1.jar 
+ wss4j-1.5.8.jar FastInfoset-1.2.7.jar saxpath.jar jaxb-impl-2.1.12.ja
+ r geronimo-stax-api_1.0_spec-1.0.jar XmlSchema-1.4.5.jar serializer-2
+ .7.1.jar smack.jar jcifs-1.2.19.jar asm-2.2.3.jar engine.jar jaxb-api
+ -2.1.jar utils.jar jetty-util-6.1.21.jar commons-net-2.0.jar cxf-2.2.
+ 5.jar tomcat-juli.jar geronimo-stax-api_1.0_spec-1.0.1.jar openxml4j-
+ bin-beta.jar antlr-2.7.7.jar ehcache-core-2.4.1.jar jaxb-xjc-2.1.12.j
+ ar commons-beanutils-1.8.3.jar
+

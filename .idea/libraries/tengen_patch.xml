@@ -1,0 +1,72 @@
+<component name="libraryTable">
+  <library name="tengen-patch">
+    <CLASSES>
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/patch/6.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/patch/aws.application.patch(201309131119).jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/patch/aws.document.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/patch/aws.portal.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/patch/com.tengen.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/patch/document.persion.patch.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/patch/formEvtNolock.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/patch/PersonDomainImpl.patch.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/patch/RuntimeFormManager.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/patch/TG_ZONG.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/patch/wfcost.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/com.tianzheng.ding.bpm-1.0.0.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/com.actionsoft.suite.eam2.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/TG_PortalMenu.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/dingding_lib/commons-codec-1.9.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/dingding_lib/fastjson-1.2.12.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/TG_Command.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/dingding_lib/commons-collections-2.1.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/com.actionsoft.suite.meetingmanager.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/HR_JAR/org.apache.commons.logging_1.0.4.v201101211617.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/Adapter.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/ptcommision.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/com.actionsoft.suite.hrm2.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/ImApi-2.1.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/com.actionsoft.apps.portal.mobile.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/TG_CMS.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/dingding_lib/xml-apis-1.0.b2.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/role_securitygroup_order.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/dingding_lib/commons-io-2.5.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/dingding_lib/commons-validator-1.3.1.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/aws_plugs_OSEnv.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/ldap.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/dingding_lib/validation-api-1.0.0.GA.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/HR_JAR/javax.wsdl_1.6.2.v201012040545.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/HR_JAR/axis.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/HR_JAR/saaj.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/dingding_lib/httpclient-4.5.2.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/dingding_lib/commons-digester-1.6.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/dingding_lib/commons-lang3-3.4.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/dingding_lib/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/HR_JAR/jaxrpc.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/dingding_lib/httpcore-4.4.4.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/dingding_lib/commons-logging-1.2.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/DiggerReport.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/aws.portal.mobile.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/com.actionsoft.suite.hotspot.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/com.actionsoft.suite.pm1.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/HR_JAR/activation.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/com.actionsoft.suite.sfa2.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/HR_JAR/commons-discovery-0.2.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/noreg.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/HR_JAR/TG_HRAPI.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/com.actionsoft.suite.gov.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/com.actionsoft.apps.portal.tablet.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/dingding_lib/httpmime-4.5.2.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/com.actionsoft.suite.expense.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/patch/6.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/patch/com.tengen.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/patch/RuntimeFormManager.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/com.actionsoft.suite.meetingmanager.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/aws_plugs_OSEnv.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/noreg.jar!/" />
+      <root url="jar://D:/AWSPLATFORM/aws5/aws5-tengen/bin/plugs/HR_JAR/TG_HRAPI.jar!/" />
+    </SOURCES>
+  </library>
+</component>
